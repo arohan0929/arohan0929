@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @arohan0929
 - 👀 I’m interested in web technologies.
-- 💞️ I’m looking to collaborate on Javascript projects.
 - 📫 You can reach me at arohan0929@gmail.com
